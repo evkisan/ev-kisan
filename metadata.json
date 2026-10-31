@@ -1,0 +1,6 @@
+{
+  "name": "EV Kisan – Agriculture Super Platform",
+  "description": "EV Kisan: Comprehensive Indian agriculture platform for mandi bhav, government schemes, weather, tractors and machinery marketplace, comparison engine, farming calculators, and farmer support.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
